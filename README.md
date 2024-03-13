@@ -1,1 +1,1 @@
-some more details about the project description.
+ails about the project description.
